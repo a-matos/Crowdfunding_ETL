@@ -1,6 +1,6 @@
 # Crowdfunding_ETL
 
-## This mini project is divided into the following subsections:
+## This project is divided into the following subsections:
 
 * Create the Category and Subcategory DataFrames
 * Create the Campaign DataFrame
